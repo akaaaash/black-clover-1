@@ -1,1 +1,6 @@
-# black-clover-1
+class addition{
+public static void main(string b[] int a,b)
+{
+sum=a+b
+}
+}
